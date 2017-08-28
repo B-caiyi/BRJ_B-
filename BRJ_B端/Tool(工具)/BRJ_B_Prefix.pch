@@ -1,0 +1,24 @@
+//
+//  BRJ_B_Prefix.pch
+//  BRJ_B端
+//
+//  Created by 方溯 on 2017/8/2.
+//  Copyright © 2017年 方溯. All rights reserved.
+//
+
+#ifndef BRJ_B_Prefix_pch
+#define BRJ_B_Prefix_pch
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "MBProgressHUD.h"
+#import "UIColor+Hex.h"
+#import "AFNetworking.h"
+#import "Maker.h"
+#import "BRJ_Header.h"
+
+#endif
+
+#endif /* BRJ_B_Prefix_pch */

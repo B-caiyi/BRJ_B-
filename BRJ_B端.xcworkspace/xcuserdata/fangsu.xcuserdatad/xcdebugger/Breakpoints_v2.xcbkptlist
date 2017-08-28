@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BRJ_B&#x7aef;/ClubHouse(&#x4f1a;&#x6240;)/Sales(&#x9500;&#x552e;)/Controllers/SalesViewController.m"
+            timestampString = "523519596.209721"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BRJ_B&#x7aef;/ClubHouse(&#x4f1a;&#x6240;)/Sales(&#x9500;&#x552e;)/Views/SalesTableViewCell.m"
+            timestampString = "523509654.337712"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "-initWithStyle:reuseIdentifier:type:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BRJ_B&#x7aef;/ClubHouse(&#x4f1a;&#x6240;)/Sales(&#x9500;&#x552e;)/Views/SalesTableViewCell.m"
+            timestampString = "523509656.216604"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "-initWithStyle:reuseIdentifier:type:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BRJ_B&#x7aef;/ClubHouse(&#x4f1a;&#x6240;)/Sales(&#x9500;&#x552e;)/Controllers/SalesViewController.m"
+            timestampString = "523519907.490973"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BRJ_B&#x7aef;/ClubHouse(&#x4f1a;&#x6240;)/Sales(&#x9500;&#x552e;)/Controllers/SalesViewController.m"
+            timestampString = "523519907.490973"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BRJ_B&#x7aef;/ClubHouse(&#x4f1a;&#x6240;)/Sales(&#x9500;&#x552e;)/Views/SalesTableViewCell.m"
+            timestampString = "523518584.559891"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "-customCellSectionThree"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BRJ_B&#x7aef;/ClubHouse(&#x4f1a;&#x6240;)/Sales(&#x9500;&#x552e;)/NewCustomer(&#x65b0;&#x5efa;&#x5ba2;&#x6237;)/Controllers/AddNewCustomerViewController.m"
+            timestampString = "524128293.485434"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "-moreBtnClick:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BRJ_B&#x7aef;/ClubHouse(&#x4f1a;&#x6240;)/Sales(&#x9500;&#x552e;)/NewOrder(&#x65b0;&#x5efa;&#x8ba2;&#x5355;)/Controllers/NewOrderViewController.m"
+            timestampString = "525008619.316668"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "309"
+            endingLineNumber = "309"
+            landmarkName = "-numberOfSectionsInCollectionView:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BRJ_B&#x7aef;/ClubHouse(&#x4f1a;&#x6240;)/Sales(&#x9500;&#x552e;)/NewOrder(&#x65b0;&#x5efa;&#x8ba2;&#x5355;)/Controllers/NewOrderViewController.m"
+            timestampString = "525008619.316668"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "185"
+            endingLineNumber = "185"
+            landmarkName = "-tableView:viewForFooterInSection:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BRJ_B&#x7aef;/ClubHouse(&#x4f1a;&#x6240;)/ClubHouseViewController.m"
+            timestampString = "525324295.987021"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "-creatChildrenCotroller"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__49-[ClubHouseViewController creatChildrenCotroller]_block_invoke.78"
+                  moduleName = "BRJ_B&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fangsu/Desktop/%E9%A1%B9%E7%9B%AE13/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/BRJ_B%E7%AB%AF/BRJ_B%E7%AB%AF/BRJ_B%E7%AB%AF/ClubHouse(%E4%BC%9A%E6%89%80)/ClubHouseViewController.m"
+                  timestampString = "525577146.035088"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__49-[ClubHouseViewController creatChildrenCotroller]_block_invoke.78"
+                  moduleName = "BRJ_B&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fangsu/Desktop/%E9%A1%B9%E7%9B%AE13/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/BRJ_B%E7%AB%AF/BRJ_B%E7%AB%AF/BRJ_B%E7%AB%AF/ClubHouse(%E4%BC%9A%E6%89%80)/ClubHouseViewController.m"
+                  timestampString = "525577146.036191"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "724">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BRJ_B&#x7aef;/ClubHouse(&#x4f1a;&#x6240;)/Attendance(&#x62a4;&#x7406;)/CheckEvaluation(&#x5165;&#x4f4f;&#x8bc4;&#x4f30;)/Controllers/CheckEvaluationViewController.m"
+            timestampString = "525256017.604204"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "-initUI"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BRJ_B&#x7aef;/ClubHouse(&#x4f1a;&#x6240;)/Attendance(&#x62a4;&#x7406;)/CheckEvaluation(&#x5165;&#x4f4f;&#x8bc4;&#x4f30;)/Controllers/CheckEvaluationViewController.m"
+            timestampString = "525256017.604204"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "-setupSegment"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
