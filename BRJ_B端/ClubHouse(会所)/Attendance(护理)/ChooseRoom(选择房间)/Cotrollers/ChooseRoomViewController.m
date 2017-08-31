@@ -101,9 +101,6 @@
 
 - (void)btnClicked:(UIButton *)sender
 {
-//        sender.backgroundColor = [UIColor colorWithHexString:@"#EEEFF2"];
-//        sender.titleLabel.font = [UIFont systemFontOfSize:20];
-//        [sender setTitleColor:[UIColor colorWithHexString:@"#212F4D"] forState:UIControlStateNormal];
     if (!sender.selected) {
         sender.backgroundColor = [UIColor colorWithHexString:@"#EEEFF2"];
         sender.titleLabel.font = [UIFont systemFontOfSize:20];
